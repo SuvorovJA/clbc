@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java11 -jar target/bookcatalog-jar-with-dependencies.jar "$@"
